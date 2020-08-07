@@ -235,41 +235,5 @@
       "categoriaId": 6,
       "id": 55
     },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 100,
-      "id": 56
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 1,
-      "id": 57
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 1,
-      "id": 58
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 1,
-      "id": 59
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 1,
-      "id": 60
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=yInrbIvVPYE",
-      "categoriaId": 3,
-      "id": 61
-    }
   ]
 }
